@@ -1,10 +1,7 @@
 # Hi there! This is Jiwon ✨
 
-### Get in Touch
-<a href="mailto:g.one9709@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-
-
+### Currently learning...
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"><img alt="TypeScript" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
 
 
